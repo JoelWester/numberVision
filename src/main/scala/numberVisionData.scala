@@ -6,7 +6,7 @@ import javax.imageio.ImageIO
 import java.awt.image.BufferedImage
 
 object data {
-  val mainImage = ImageIO.read(new File("data/corpus.png", "corpus.png"))
+  val mainImage = ImageIO.read(new File("data", "corpus.png"))
   val mx = 3
   val my = 5
   val stepx = 165
