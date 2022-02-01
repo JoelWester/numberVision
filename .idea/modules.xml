@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/numberVision.iml" filepath="$PROJECT_DIR$/.idea/modules/numberVision.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/numberVision-build.iml" filepath="$PROJECT_DIR$/.idea/modules/numberVision-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/src_numberVision.iml" filepath="$PROJECT_DIR$/.idea/modules/src_numberVision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/src_numberVision-build.iml" filepath="$PROJECT_DIR$/.idea/modules/src_numberVision-build.iml" />
     </modules>
   </component>
 </project>

@@ -1,5 +1,4 @@
 //This module cleans the data
-package numberVision
 
 import java.io.File
 import java.lang.ExceptionInInitializerError
@@ -7,7 +6,7 @@ import javax.imageio.ImageIO
 import java.awt.image.BufferedImage
 
 object data {
-  val mainImage = ImageIO.read(new File("r11/11.1_binaryVision/data", "corpus.png"))
+  val mainImage = ImageIO.read(new File("data/corpus.png", "corpus.png"))
   val mx = 3
   val my = 5
   val stepx = 165

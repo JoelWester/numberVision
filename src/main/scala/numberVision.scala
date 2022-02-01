@@ -1,5 +1,3 @@
-package numberVision
-
 object classifier {
   val sizex = 160 // width of digits (do not edit)
   val sizey = 160 // height of digits (do not edit)

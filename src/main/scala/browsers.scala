@@ -1,5 +1,4 @@
 //Browsers for testing the data
-package numberVision
 
 object TrainBrowser {
   def main(args: Array[String]) {
